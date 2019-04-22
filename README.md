@@ -21,7 +21,7 @@ The results can be a bit odd if there are more-than-basic DNS records.  CNAME's 
 ![](https://github.com/RookieITSec/Excel-nslookup/blob/master/ss-calced.png)
 
 
-This may take some time to calculate and Excel will occasionally diem, so save often.  A good coder could probably make a few adjustments to fix this.
+This may take some time to calculate and Excel will occasionally die, so save often.  A good coder could probably make a few adjustments to fix this.
 
 
 
